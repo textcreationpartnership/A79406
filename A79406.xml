@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifesto of the most Serene Prince Charles Lodwick Count Palatin of the Rhin, and Vicar of the Holy Empire, containing his ancient and patromoniall right to the sayd vicarship within the circles of the Rhin, Suabland, and the Franconian territories. VVerein ther [sic] are divers reflections upon the Aurea Bulla and the fundamentall lawes of the Empire.</title>
+            <author>Karl Ludwig, Elector Palatine, 1617-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79406</idno>
+            <idno type="STC">Wing C3659</idno>
+            <idno type="STC">Thomason E916_9</idno>
+            <idno type="STC">ESTC R207495</idno>
+            <idno type="EEBO-CITATION">99866542</idno>
+            <idno type="PROQUEST">99866542</idno>
+            <idno type="VID">118818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118818)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 138:E916[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifesto of the most Serene Prince Charles Lodwick Count Palatin of the Rhin, and Vicar of the Holy Empire, containing his ancient and patromoniall right to the sayd vicarship within the circles of the Rhin, Suabland, and the Franconian territories. VVerein ther [sic] are divers reflections upon the Aurea Bulla and the fundamentall lawes of the Empire.</title>
+                  <author>Karl Ludwig, Elector Palatine, 1617-1680.</author>
+               </titleStmt>
+               <extent>12 [i.e.14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Lownds at the white Lyon, near the little North door of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 14 misnumbered 12.</note>
+                  <note>Annotation on Thomason copy: "July 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Germany --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118818:1" rendition="simple:additions"/>
+            <p>A MANIFESTO Of the moſt SERENE PRINCE <hi>CHARLES LODWICK</hi> Count Palatin of the <hi>Rhin,</hi> and <hi>Vicar</hi> of the Holy Empire, Containing his ancient and <hi>Patro<g ref="char:EOLhyphen"/>moniall</hi> Right to the ſayed <hi>Vicarſhip</hi> within the Circles of the <hi>Rhin, Suabland,</hi> and the <hi>Franconian</hi> Territories.</p>
+            <p>VVherein ther are divers reflections upon the <hi>Aurea Bulla</hi> and the fundamen<g ref="char:EOLhyphen"/>tall Lawes of the Empire.</p>
+            <p>Concordat cum originali in latin <hi>I du pont</hi>
+            </p>
+            <q>
+               <l>Fiat Juſticia, et ruat caelum,</l>
+               <l>Multò magis Imperium.</l>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Richard Lownds</hi> at the white Lyon, near the little North door of <hi>Pauls,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="manifesto">
+            <pb facs="tcp:118818:2"/>
+            <pb n="7" facs="tcp:118818:2"/>
+            <head>The Manifeſto of the moſt gracious Prince <hi>Charles Lodwick</hi> Count Palatin of the Rhin, and <hi>Vicar</hi> of the holy Empire;</head>
+            <head type="sub">Containing an Abridgement of the Reaſons for his Right to the <hi>Vicarſhip</hi> of the Empire, within the Circle of the Rhin, of <hi>Swabland,</hi> and the <hi>Franconian</hi> Right.</head>
+            <p>IT would without doubt be ſuperfluous to make a Diſcours extend too long to demonſtrat, that the <hi>Vi<g ref="char:EOLhyphen"/>carſhip</hi> of the Empire within the Circle of the <hi>Rhin,</hi> of <hi>Swab<g ref="char:EOLhyphen"/>land,</hi> and <hi>Franconian territory,</hi> appertains by the deceaſe of the Emperour <hi>Ferdinand</hi> the 3, unto the moſt gracious Prince <hi>Charles Loduick,</hi> Elector of the holy Empire, <hi>&amp;c.</hi>
+            </p>
+            <p>In regard 'tis a Right which the Teſtimony of all Hiſtori<g ref="char:EOLhyphen"/>ans, the conſtitution of the Golden Bull, the Letters and Patents of Emperours, the inveterat Cuſtome and Ex<g ref="char:EOLhyphen"/>amples of his Anceſtors, the laſt <hi>Inſtrument</hi> of Peace con<g ref="char:EOLhyphen"/>cluded at <hi>Munster,</hi> and <hi>Oſnabrug,</hi> and in a word, the Pub<g ref="char:EOLhyphen"/>lique knowledg, and fundamentall Laws of the Empire do put him in poſſeſſion of; In ſo much that it is ſupervaca<g ref="char:EOLhyphen"/>neous to ſeek for proofs or reaſons to maintain the truth of it; Now thoſe proofs are warrants ſo well known, and ſo cleer that we need not turn over many Books, or conſult with the Archives of the <hi>Palatin Chancery,</hi> or to allege the authority of Authors wherof they are full, to this purpoſe, ther being documents, and rules ſo evident in the point, that ther cannot be more holy, and more authentique for this purpoſe in all the world.</p>
+            <pb n="4" facs="tcp:118818:3"/>
+            <p>Notwithſtanding in regard ther is nothing ſo inviolable, and ſacred either by its own authority and right, but it may be controverted, It is juſt to ſatisfie the ignorance of ſome, the curioſity of others, and the publike intereſt herin, which we ſhall do in few lines.</p>
+            <p>To which effect we muſt mark at the firſt entrance that which was ſufficiently prov'd elſwhere, and made free from doubt to all thoſe that have any knowledg of Hiſtory in times paſt, that this dignity of the <hi>Vicarſhip</hi> of the Empire was acquir'd by the ancient Count Palatins of the <hi>Rhin</hi> time out of mind <hi>Vigore Praefecturae Praetorii, Maioratus, domus et palatii Comitatûs Palatini,</hi> as Counts and Maires of the palace, whoſe rank and dignity are too well known to be ex<g ref="char:EOLhyphen"/>preſſd at large in this place. And 'tis no wonder that this ſo eminent charge, giving them the prime rank, &amp; principal au<g ref="char:EOLhyphen"/>thority in the Court of their maſters, with the general in<g ref="char:EOLhyphen"/>tendency of their affaires, and of juſtice, and that by vertu of this rank, and this authority they were eſtabliſhd either in their abſence or by deceaſe in the adminiſtration, and re<g ref="char:EOLhyphen"/>gency of the Empire; hence it proceeded that they had the <hi>Vicarſhip</hi> of the Empire which was eſtabliſhd in the houſe of the Count Palatins of the <hi>Rhin.</hi>
+            </p>
+            <p>In the ſecond place this Right was acquir'd by the Count Palatins of the <hi>Rhin</hi> not in paper or parchment only, but it was put in practice and exerciſd by a great nomber of them before the creation of the <hi>Electors,</hi> and a great while before the conſtitution of the <hi>golden bull,</hi> which is evident by the ex<g ref="char:EOLhyphen"/>ample of <hi>Conradus</hi> after the death of <hi>Henry,</hi> and of <hi>Lewis</hi> af<g ref="char:EOLhyphen"/>ter the death of the Emperour <hi>Rodulphus</hi> the firſt, &amp; of <hi>Rodolp</hi> father in law to <hi>Charls</hi> the fourth, and of <hi>Robert</hi> the elder, all Count Palatins of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Rhin.</hi> Moreover the Emperour <hi>Lewis</hi> of <hi>Bavaria</hi> in his conſtitution publiſhd at <hi>Frankfort</hi> in the yeer 1339. to ſhew at one time the ancientnes, as well as the pra<g ref="char:EOLhyphen"/>ctice of this Right, ſpeaks in theſe termes upon this ſubject, <hi>Quod longâ et probata conſuetudine inconcuſſe à Majorum obſerva<g ref="char:EOLhyphen"/>tione
+<pb n="5" facs="tcp:118818:3"/>retrò obſervatâ vacante Imperio jus adminiſtrandi Imperii ju<g ref="char:EOLhyphen"/>ra, feuda conferendi et caetera negotia diſponendi Palatino Rheni de<g ref="char:EOLhyphen"/>beatur, viz.</hi> that by long and approved cuſtome obſerved con<g ref="char:EOLhyphen"/>ſtantly by our Anceſters, the right of adminiſtring the Empire in the vacancy, the letting of leaſes, conferring of fees, and the diſpoſing of all other affaires is due unto the Count Palatin of the <hi>Rhin.</hi>
+            </p>
+            <p>In the third place this Right hath bin authentiquely con<g ref="char:EOLhyphen"/>firmed to the Count Palatins of the <hi>Rhin</hi> by the <hi>golden Bull</hi> made by the Emperour <hi>Charles</hi> the fourth, which ſerves for a Rule and fundamentall law of the Empire, wherein having firſt treated of the duty, and dignity of the Electors in ge<g ref="char:EOLhyphen"/>nerall, it is formally, and in expreſſe termes ſpecified in the 5 title calld <hi>de jure Comitis Palatini, et Saxoniae Ducis, Quoties in<g ref="char:EOLhyphen"/>ſuper, ut praemittitur, ſacrum vacare continget Imperium, Illuſtris Comes Palatinus Rheni, ſacri Imperii Archidapifer ad manus futu<g ref="char:EOLhyphen"/>ri Regis Romanorum in partibus Rheni, et Sueviae, et in jure Fran<g ref="char:EOLhyphen"/>conico, ratione Principatus, ceu Comitatus Palatini privilegio eſſe de<g ref="char:EOLhyphen"/>beat Proviſor Imperii, cum poteſtate Iudicia exercendi &amp;c.</hi> which is to ſay, whenſoever it ſhall happen, as 'twas ſayed before, that the holy Empire ſhal be vacant, the Illuſtrious Count Palatin of the <hi>Rhin,</hi> Archſewer of the Roman Empire, in the place of the King of the Romans, by privilege ought to be Regent or Vi<g ref="char:EOLhyphen"/>car of the Empire, within the Circles of the <hi>Rhin,</hi> of <hi>Suabland,</hi> &amp; of the <hi>Franconian Right,</hi> by vertu of the Principality or Coun<g ref="char:EOLhyphen"/>ty Palatin of the <hi>Rhin,</hi> with power to execute judgments &amp;c.</p>
+            <p>In the fourth place in the <hi>golden Bull</hi> of the Emperour <hi>Si<g ref="char:EOLhyphen"/>giſmund</hi> 'tis ſpecified, <hi>Electores, et Comites Palatinos diuturna temporum praeſcriptione inconcuſſè habuiſſe Uicariatum Imperii, &amp; poſſediſſe legitime, viz.</hi> that the Electors, and Counts Pala<g ref="char:EOLhyphen"/>tins by long preſcription of time had conſtantly the Vicar<g ref="char:EOLhyphen"/>ſhip of the Empire, and legally poſſeſſd it; It appears alſo by the letters &amp; patents of the ſucceeding Emperours untill <hi>Ferdinand</hi> the ſecond, as alſo by the examples of <hi>Robert, Lewis, Frederique</hi> the victorious, <hi>Philip, Lewis, Otho, Henry,
+<pb n="6" facs="tcp:118818:4"/>John Caſimer,</hi> and <hi>Frederique</hi> the fifth his now Elector at High<g ref="char:EOLhyphen"/>neſſes Father <hi>Charles Lewis,</hi> the ſayed Counts Palatins of the Rhin ſince the time of the <hi>golden Bull,</hi> and following the cuſtomes of their Anceſters have bin confirmd in this privi<g ref="char:EOLhyphen"/>lege in the knowledge and ſight of the Empire, and exercis'd the ſayed office without any conteſt.</p>
+            <p>In the firſt place by the Inſtrument of peace concluded at <hi>Ofnabrug,</hi> and <hi>Munſter,</hi> his electorat Highnes <hi>Charles Lodwick</hi> having bin formally put, &amp; reentred in the poſſeſſion of the Palatinat of the Rhin, with all &amp; evry of his Rights, royalties, Prerogatives &amp; privileges w<hi rend="sup">ch</hi> appertain unto him, all w<hi rend="sup">ch</hi> the Counts Palatins of the Rhin enjoyd before the laſt war of <hi>Bohemia,</hi> and having in order thereunto receavd the inveſti<g ref="char:EOLhyphen"/>ture in the yeer 1652 of the Emperour <hi>Ferdinand</hi> lately dead in the ſame termes, It followes, that, without any mat<g ref="char:EOLhyphen"/>ter of doubt, he was reſtord thereby to the poſſeſſion of the right of the <hi>Vicarſhip</hi> which is an inſeparable dependency of the <hi>Palatinat</hi> of the Rhin, which cannot be queſtioned with the leaſt apparance of ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tice, &amp; without the violation, &amp; manifeſt breach of all that may be calld ſacred, or authenticall in the Empire.</p>
+            <p>And although in the ſame inſtrument of peace the Electo<g ref="char:EOLhyphen"/>rall dignity of the Counts Palatins of the Rhin as alſo the upper Palatinat with the County of <hi>Cham</hi> hath bin tranſ<g ref="char:EOLhyphen"/>ported to the houſe of <hi>Bavaria,</hi> with all the royalties, Rights and privileges thereof, and that by vertu of this Transport the Elector of <hi>Bavaria</hi> pretends by his patents to have right to the <hi>Vicarſhip,</hi> Ther is none but may ſee by the reaſons and authorities that ſhall be alleg'd the ſmall foundation which ſuch pretenſions have, and conſequently what conſi<g ref="char:EOLhyphen"/>deration is to be had in this rancounter.</p>
+            <p>It is therfore to be obſervd, firſt, that not alleging any o<g ref="char:EOLhyphen"/>ther proof for his pretnded Right to the <hi>Vicarſhip</hi> but the ſayed <hi>Inſtrument</hi> of peace, he doth witneſſe himſelf therby that this Right doth naturally belong unto the Counts Pa<g ref="char:EOLhyphen"/>latins
+<pb n="7" facs="tcp:118818:4"/>of the Rhin, and not to the Dukes of <hi>Bavaria,</hi> and that no ſpecial excluſion, or any formall conceſſion whatſo<g ref="char:EOLhyphen"/>ever is able to deprive the one, or eſtabliſh the other in any ſuch right.</p>
+            <p>In the ſecond place, 'Tis not ſayed in that Inſtrument of peace, that all the rights and prerogratives of the Electors, and Counts Palatin of the Rhin are tranſported to the houſe of <hi>Bavaria,</hi> ſo that he may draw any conſequence thence to this purpoſe, but only ſuch Rights that are annexd to the <hi>Electoral dignity</hi> alone, wherof he can make no advantage for his preſent pretenſion.</p>
+            <p>In the third place, It is not ſufficient only to allege in ge<g ref="char:EOLhyphen"/>general termes, and attribut to himſelf the Inveſtiture of ſo Eminent, and conſiderable a Dignity, but an expreſſe and ſolemn excluſion ſhold have bin uſd (as it is in other articles of leſſer conſequence) to deprive a Houſe of the poſſeſſion of a Right of this nature which hath bin appertaining unto it ſo many Ages by a peaceable and entire poſſeſſion, confirmd by ſo many publique and authentique Acts, and fortified by ſo many examples: Nor can he aſſume to himſelf that Right without a manifeſt contravention and breach of the Treaty, or <hi>Inſtrument</hi> of peace which makes no mention therof at all, and which doth reeſtabliſh his Electorat Highneſſe <hi>Charles Lodwick</hi> in the Rights and privileges which the County or principality of the Rhin can claym from his Anceſtors.</p>
+            <p>In the fourth place, It it is not only by the ſayed <hi>Instru<g ref="char:EOLhyphen"/>ment</hi> of peace, and the vigor of the generall <hi>Amneſtia,</hi> which annuls all matters paſſd, that his Electoral Highneſſe claymes a continuance of this Right, but alſo by the ex<g ref="char:EOLhyphen"/>preſſe Inveſtiture of divers Rights which his Electorall Highnes receavd from the late Emperour <hi>Frederique</hi> the third, which rights draw their originall and ſource only from the dignity of the <hi>Vicarſhip</hi> of the Empire, as <hi>Jus ſuc<g ref="char:EOLhyphen"/>cedendi in bona liberorum ex illegitima coitione naterum; Jus capi<g ref="char:EOLhyphen"/>endi, et ſibi ad dicendi in proprietatem, &amp; ſervitutem eos qui ſine dominio et lare aberrant &amp;c.</hi>
+            </p>
+            <pb n="8" facs="tcp:118818:5"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <hi>ny,</hi> as the title doth intimate, and as tis treated in the text it ſelf, which hath bin ill tranſlated into Dutch, and againſt the tenor of the expreſſe terms of the original.</p>
+            <p>Furthermore, It is to be conſidered, that as this digni<g ref="char:EOLhyphen"/>ty of <hi>Vicarſhip</hi> of the Empire, hath been appropriated to the Counts Palatin of the <hi>Rhin,</hi> by vertu only of the <hi>Principality</hi> or the <hi>County,</hi> ſo the ſame Office of <hi>Vicarſhip</hi> appertains to the Dukes of <hi>Saxony,</hi> within the rights and territories ot <hi>Saxony,</hi> not in regard of the <hi>electoral</hi> dig<g ref="char:EOLhyphen"/>nity, <hi>ſed ratione cujuſdam</hi> Palatinatus <hi>in</hi> Saxonia, <hi>&amp; prae<g ref="char:EOLhyphen"/>fecturae etiam Palatii veteris,</hi> in regard of a <hi>Palatinate</hi> that he had in <hi>Saxony,</hi> and a ſuperintendency he had in the old Imperial Palace, as divers Annals, and Hiſtorians bear witnes. Beſides, although ther were divers other Palatins in the Empire; Yet all the world knows ther were Arch-Palatines by whom they were governd, a<g ref="char:EOLhyphen"/>mongſt whom the Count Palatin of the <hi>Rhin,</hi> and the Duke of <hi>Saxony</hi> had the firſt rank, and were as it were their heads and Directors.</p>
+            <p>In fine, tis not ſayed in the <hi>Bulla Aurea</hi> byvertu of the <hi>Duchy of Bavaria,</hi> nor of the Electorat, but of the <hi>County Palatin</hi> whereunto this right was annexed, as be<g ref="char:EOLhyphen"/>ing the prime and faireſt part of the Country, and the neareſt and moſt convenient to exerciſe the ſayed Office within the precincts of the <hi>Franconian</hi> territories, as the Archbiſhop of <hi>Mentz</hi> hath the firſt rank among the <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Prelats, by reaſon of the ſituation of his Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>On other ſide, to invalidat theſe reaſons, or ſhew that the dependence of the <hi>Vicarſhip</hi> is upon the Electoral dignity, it avayles little to allege either the text of the Dutch tranſlation of the Golden Bull (which is ill tran<g ref="char:EOLhyphen"/>ſlated as hath bin formerly ſayed) and againſt the ex<g ref="char:EOLhyphen"/>preſſe
+<pb n="9" facs="tcp:118818:5"/>terms of the original, or to have recours in this par<g ref="char:EOLhyphen"/>ticular to the <hi>Arrchidapifer,</hi> or <hi>Archſewerſhip,</hi> which is given to the ſayed Count Palatin in the ſayed Bull, or to that of <hi>Elector,</hi> which is added in other Imperiall con<g ref="char:EOLhyphen"/>ſtitutions to the Count Palatin of the <hi>Rhin,</hi> together with the Vicarſhip; for theſe are too feeble exceptions, and too groſſe ſubtilties to prevail in this buſineſſe, having ſuch weak reflections; In regard that neither the one nor the tother are found inſerted in an infinit nomber of Acts which have paſſed, relating to the <hi>Vicarſhip</hi> of the Count Palatin.</p>
+            <p>But above all, ther's none ſo unfurniſhed with judg<g ref="char:EOLhyphen"/>ment but may plainly ſee that this title of <hi>Elector</hi> is gi<g ref="char:EOLhyphen"/>ven to diſtinguiſh them from <hi>Cade<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> or younger bro<g ref="char:EOLhyphen"/>thers of the ſame houſe, not as a word of diſpoſiti<g ref="char:EOLhyphen"/>on or <hi>connexion,</hi> as the Schools ſpeak, but purely and ſimply, as terms of <hi>Enuntiation.</hi> But ſpeaking of the right of the Counts Palatin of the <hi>Rhin,</hi> the poſſeſ<g ref="char:EOLhyphen"/>ſory titles are added, wherof the principall is yet conſerved; nor can it be pretended that this addition can bring with it the leaſt prejudice touching the ſource and dependency of their Right to the <hi>Vicarſhip</hi> of the Empire; Inſomuch that it wold be abſurd to inferre any thing thence to prejudice their juſt title in this point.</p>
+            <p>And as the Elector of <hi>Bavaria</hi> cannot make a Bouk<g ref="char:EOLhyphen"/>ler of this <hi>Inſtrument</hi> of peace for the eſtabliſhment of his imaginary Right with the leaſt pretext, or co<g ref="char:EOLhyphen"/>lour of Juſtice, but rather clean contrary he doth therby overthrow the very ground of his pretenſions, ſo much leſſe may he relye upon any Imperial conceſſion, which may favour him to this effect.</p>
+            <p>Firſt, he cannot advantage himſelf of any that could
+<pb n="10" facs="tcp:118818:6"/>have bin granted him before the laſt peace, and during the wars, to this purpoſe, becauſe it was cut off, and formally annull'd by the <hi>Inſtrument</hi> of peace in <hi>Artic. Pal: caſſatis iis quae in contrarium acta ſunt, &amp;c.</hi>
+            </p>
+            <p>In the ſecond place, he cannot underſtand therby the letter of <hi>Inveſtiture</hi> granted to the Duke <hi>Maximilian</hi> his father during the warrs in the year 1638. where a<g ref="char:EOLhyphen"/>mong other things ther is expreſſe mention made of the Inveſtiture of the <hi>Vicarſhip,</hi> becauſe it was entirely daſh'd; firſt by the Article fore-alleged of the Inſtru<g ref="char:EOLhyphen"/>ment of peace, where tis ſayed, <hi>Collatis iis,</hi> &amp;c.</p>
+            <p>Secondly by the expedition of another Letter of in<g ref="char:EOLhyphen"/>veſtiture, wherof ther happning no death of Vaſſal or Lord, there was no need, had not the firſt bin total<g ref="char:EOLhyphen"/>ly annull'd.</p>
+            <p>Thirdly, by the promiſe which his ſacred Imperial Majeſty had given unto his Electoral H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe, as well by word of mouth, as by writing, or to inſert <hi>Clauſulam Caſſatoriam</hi> within the new letter of Inveſtiture of the Ele<g ref="char:EOLhyphen"/>ctor of <hi>Bavaria,</hi> or to give the ſayed Elector Palatin <hi>Re<g ref="char:EOLhyphen"/>ſcriptum Caſſatorium.</hi>
+            </p>
+            <p>In the third place, which doubtleſſe ought to be ſpeci<g ref="char:EOLhyphen"/>ally obſerved, that his ſacred Imperial Majeſty within the new Letters of Inveſtiture which he gave to the Ele<g ref="char:EOLhyphen"/>ctor of <hi>Bavaria,</hi> in the year 1652. ther <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not only no mention made of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Vicarſhip</hi> bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ther's not a word inſer<g ref="char:EOLhyphen"/>ted, that the Elector <hi>Max<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>milian</hi> of <hi>Bavaria</hi> was formerly inveſted therin by any preceeding Letter of Inveſtiture which he had until his happy death. But on the contrary for an evidence in favour of the Elector Palatin tis ſaid in generral, that the Elector of <hi>Bavaria</hi> ought to be in<g ref="char:EOLhyphen"/>veſted with the <hi>Electoral dignity,</hi> and the upper County Palatin, as the Inſtrument hath it expreſly, as it may be
+<pb n="11" facs="tcp:118818:6"/>ſeen in a coppie of the ſayed letter of Inveſtiture, which his ſacred Imperiall Majeſty a little before his death, and namely the tenth of <hi>March</hi> 1637. did graciouſly commu<g ref="char:EOLhyphen"/>nicate unto the Elector Palatin.</p>
+            <p>In ſo much than all the inſtances and prayers of the Elector of <hi>Bavaria</hi> provd not only unprofitable for to cauſe the <hi>Vicarſhip</hi> to be incerted in the ſayed Letter of <hi>Investiture,</hi> but alſo is Imperial Majeſty writ again the ſame time unto the <hi>Elector</hi> Palatin, that he <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>new very well the advice, and remonſtrances that were preſented unto him touching this matter, which he did put in mature de<g ref="char:EOLhyphen"/>liberation, and in effect had ſuch regard thereof, that he cauſd that new letter of <hi>Inveſtiture</hi> which was accor<g ref="char:EOLhyphen"/>ded to the Elector of <hi>Bavaria</hi> to be reſtraind, and limited, as the tranſcript therof beares witnes.</p>
+            <p>Out of the r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns before allegd tis eaſy to inferre that the authenticall and privilegd Right which is con<g ref="char:EOLhyphen"/>firmd without contradiction to his Electorall Highneſſe the Palatin of the <hi>Rhin,</hi> could not be taken away from him by any particular conceſſion before or after the ſayed Treaty in any way what<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to his prejudice.</p>
+            <p>To conclude, without extending this diſcours furth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, or uſe any farr-fetchd proofs upon a matter ſo cleer and evident, ſince his Highneſs the Elector Palatin Prince <hi>Charles Lodwick,</hi> is reinveſted with the charge of the <hi>Vi<g ref="char:EOLhyphen"/>carſhip</hi> by vertu of the County Palatin of the <hi>Rh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> as a prerogrative inſeparably annexd therunto, acquir'd by his Anceſtors ſo many Ages paſs'd, confirmd by a ſpe<g ref="char:EOLhyphen"/>ciall previlege in the <hi>Aurea Bulla</hi> which ſerves as a fun<g ref="char:EOLhyphen"/>damental law to the Empire, authorizd by ſo many Charters, and particular diplomataes of the Emperours, and Kings of the Romans, In a word, by an Immemo<g ref="char:EOLhyphen"/>rial obſervance, and publike Right ſo long a tract of
+<pb n="12" facs="tcp:118818:7"/>time, and particularly by the laſt <hi>Instrument</hi> of peace at <hi>Munſter,</hi> &amp; <hi>Oſnabrug,</hi> And the Empire being now vacant, his Electorall Highneſs hath undertaken and doth take upon him the proviſion, and the Adminiſtration of the Empire within the circles of the <hi>Rhin,</hi> of <hi>Swabland,</hi> and the <hi>Franconian</hi> territories, not doubting but he will be ac<g ref="char:EOLhyphen"/>knowledgd accordingly, &amp; maintaind in a peaceable and entire poſſeſſion of his Right; Therfore as his Electo<g ref="char:EOLhyphen"/>ral Highneſs doth promiſe favorable audience to all the world, and to adminiſter juſtice, and right to evry one, ſo that none ſhall have any cauſe of complaint; ſo he pre<g ref="char:EOLhyphen"/>tends to reſerve expreſsly all the wayes, and lawful means that ſhall conduce to the defence of his Right, a<g ref="char:EOLhyphen"/>gainſt all ſuch that ſhall attempt to diſturb him in the exerciſe therof, or make any hindrance of his Admi<g ref="char:EOLhyphen"/>niſtration.</p>
+            <closer>
+               <dateline>Made at <hi>Heidelburg</hi> under the Seal of his Electorall Highneſſe Palatin, <date>the the firſt of <hi>May 1657.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118818:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
